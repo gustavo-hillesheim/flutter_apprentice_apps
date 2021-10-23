@@ -10,5 +10,5 @@ A collection of apps created while studying the [Flutter Apprentice Book](https:
 - [Fooderlich app](./fooderlich): Displays cards simulating a Recipes Social App.<br>
 ![Recipes app showcase](./fooderlich/docs/showcase.gif)
 
-- [Fooderlich app V2](./fooderlich_2): Displays cards simulating a Recipes Social App.<br>
+- [Fooderlich app V2](./fooderlich_2): Displays cards simulating a Recipes Social App, and allows the user to create a grocery buying list.<br>
 ![Recipes app showcase](./fooderlich_2/docs/showcase.gif)

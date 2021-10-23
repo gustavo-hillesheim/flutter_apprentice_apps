@@ -1,6 +1,6 @@
 # Fooderlich app
 
-Displays cards simulating a Recipes Social App.<br>
+Displays cards simulating a Recipes Social App, and allows the user to create a grocery buying list.<br>
 ![Fooderlich app showcase](./docs/showcase.gif)
 
 # Key Flutter features used
@@ -11,3 +11,7 @@ Displays cards simulating a Recipes Social App.<br>
 - CircleAvatar and Chip widgets
 - ListView and GridView for scrollable areas
 - Themes for colors and text styles
+- IndexedStack to keep state between pages
+- FloatingActionButton
+- Third party packages for formatting dates, and using color pickers
+- Provider package to manage state
