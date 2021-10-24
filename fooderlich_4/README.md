@@ -16,5 +16,6 @@ Displays cards simulating a Recipes Social App, and allows the user to create a 
 - Third party packages for formatting dates, and using color pickers
 - Provider package to manage state
 - WebView using webview_flutter
+- Flutter Web support
 - Use of Navigator 2.0
 - Implementation of Deep Links
