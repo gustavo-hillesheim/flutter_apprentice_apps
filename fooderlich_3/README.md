@@ -1,16 +1,19 @@
-# fooderlich_3
+# Fooderlich app
 
-A new Flutter project.
+Displays cards simulating a Recipes Social App, and allows the user to create a grocery buying list.<br>
+![Fooderlich app showcase](./docs/showcase.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Key Flutter features used
+- Navigation using BottomNavigationBar
+- Stateless and Stateful widgets
+- BoxConstraints and BoxDecoration
+- Layout with Row, Column, Stack and Positioned widgets
+- CircleAvatar and Chip widgets
+- ListView and GridView for scrollable areas
+- Themes for colors and text styles
+- IndexedStack to keep state between pages
+- FloatingActionButton
+- Third party packages for formatting dates, and using color pickers
+- Provider package to manage state
+- WebView using webview_flutter
+- Use of Navigator 2.0

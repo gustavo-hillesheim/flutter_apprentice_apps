@@ -7,8 +7,9 @@ A collection of apps created while studying the [Flutter Apprentice Book](https:
 - [Recipes app](./recipes): Lists recipes and let the user calculate how much they will need of each ingredient to make a given number of servings.<br>
 ![Recipes app showcase](./recipes/docs/showcase.gif)
 
-- [Fooderlich app](./fooderlich): Displays cards simulating a Recipes Social App.<br>
-![Recipes app showcase](./fooderlich/docs/showcase.gif)
-
-- [Fooderlich app V2](./fooderlich_2): Displays cards simulating a Recipes Social App, and allows the user to create a grocery buying list.<br>
-![Recipes app showcase](./fooderlich_2/docs/showcase.gif)
+- [Fooderlich app](./fooderlich_4): Displays cards simulating a Recipes Social App, and allows the user to create a grocery buying list.<br>
+![Recipes app showcase](./fooderlich_4/docs/showcase.gif)
+Note: This app was remade 4 times during the book, this is the final version (Version 4), check the previous versions:
+- [Version 1](./fooderlich)
+- [Version 2](./fooderlich_2)
+- [Version 3](./fooderlich_3)
