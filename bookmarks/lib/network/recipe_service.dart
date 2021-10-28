@@ -6,10 +6,11 @@ import 'recipe_model.dart';
 
 part 'recipe_service.chopper.dart';
 
-const String apiKey = '<API KEY>';
-const String apiId = '<API ID>';
+const String apiKey = 'ApiKey';
+const String apiId = 'ApiId';
 const String apiUrl = 'https://api.edamam.com';
 
+@ChopperApi()
 abstract class RecipeService extends ChopperService {
   @Get(path: 'search')
   Future<Response<Result<APIRecipeQuery>>> queryRecipes(
