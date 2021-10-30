@@ -7,7 +7,7 @@ import 'service_interface.dart';
 
 part 'recipe_service.chopper.dart';
 
-const String apiKey = 'apikey';
+const String apiKey = 'apiKey';
 const String apiId = 'apiId';
 const String apiUrl = 'https://api.edamam.com';
 
