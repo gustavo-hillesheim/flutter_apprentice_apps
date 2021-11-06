@@ -16,3 +16,6 @@ Note: This app was remade 4 times during the book, this is the final version (Ve
 
 - [Recipe Finder app](./bookmarks): Lets the user search for recipes, bookmark them and list what ingredient they need to do the recipes saved.<br>
 ![Recipe Finder app showcase](./bookmarks/docs/showcase.gif)
+
+- [RayChat app](./raychat): User chat app<br>
+![Recipe Finder app showcase](./raychat/docs/showcase.gif)
