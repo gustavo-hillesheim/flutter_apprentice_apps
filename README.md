@@ -13,3 +13,6 @@ Note: This app was remade 4 times during the book, this is the final version (Ve
 - [Version 1](./fooderlich)
 - [Version 2](./fooderlich_2)
 - [Version 3](./fooderlich_3)
+
+- [Recipe Finder app](./bookmarks): Lets the user search for recipes, bookmark them and list what ingredient they need to do the recipes saved.<br>
+![Recipe Finder app showcase](./bookmarks/docs/showcase.gif)
